@@ -99,5 +99,6 @@ def main():
 
     get_approval_logs(w3, args.address, from_block=args.from_block, to_block=args.to_block)
 
+
 if __name__ == '__main__':
     main()
